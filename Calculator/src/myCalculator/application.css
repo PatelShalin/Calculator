@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#buttonM{
+	 -fx-background-color:#16C1C1;
+}
+#buttonM:hover{
+	-fx-background-color:aqua;
+}
+#gridPane{
+	-fx-background-color:purple;
+}
+#buttonC{
+	-fx-background-color:#9F00FF;
+}
+#buttonC:hover{
+	-fx-background-color:violet;
+}
+#buttonEquals{
+	-fx-background-color:#9F00FF;
+}
+#buttonEquals:hover{
+	-fx-background-color:violet;
+}
+
+#buttonOperation{
+	-fx-background-color:A932FC;
+}
+
+#buttonOperation:hover{
+	-fx-background-color:B57EDC;
+}
